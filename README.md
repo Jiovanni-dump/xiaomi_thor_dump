@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.241006.001 OS2.0.210.0.VLACNXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: thor
+- flavor: missi-user
+- release: 15
+- id: AQ3A.241006.001
+- incremental: OS2.0.210.0.VLACNXM
+- tags: release-keys
+- fingerprint: Xiaomi/thor/thor:12/SKQ1.230401.001/OS2.0.210.0.VLACNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AQ3A.241006.001-OS2.0.210.0.VLACNXM-release-keys
+- repo: xiaomi_thor_dump

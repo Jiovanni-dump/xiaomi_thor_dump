@@ -1,0 +1,1 @@
+video=vfb:640x400,bpp=32,memsize=3072000 disable_dma32=on swinfo.fingerprint=thor:12/OS2.0.210.0.VLACNXM:user mtdoops.fingerprint=thor:12/OS2.0.210.0.VLACNXM:user bootconfig
